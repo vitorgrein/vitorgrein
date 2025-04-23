@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-- 📊 Apaixonado por transformar dados em insights acionáveis  
+- 📊 Focado por transformar dados em insights acionáveis  
 - 🤖 Explorando redes neurais e técnicas avançadas de ML  
 - 📍 Baseado em Curitiba, Paraná  
 - 🌐 Sempre aprendendo e compartilhando — confira meus projetos e notebooks no [Kaggle](https://www.kaggle.com/vitorgrein0628)  

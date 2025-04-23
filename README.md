@@ -1,30 +1,30 @@
-<h1 align="center">Hi there, I'm Vitor Augusto Grein 👋</h1>
+<h1 align="center">Olá, sou Vitor Augusto Grein 👋</h1>
 
 <p align="center">
-  🎓 Data Analyst | 📍 Curitiba, PR | 📈 Machine Learning & Visualization Enthusiast
+  🎓 Analista de Dados | 📍 Curitiba, PR | 📈 Entusiasta de Machine Learning e Visualização
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-- 📊 Passionate about transforming data into actionable insights  
-- 🤖 Exploring neural networks and advanced ML techniques  
-- 📍 Based in Curitiba, Paraná  
-- 🌐 Always learning and sharing — check out my projects and notebooks on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/vitorgrein0628))  
-- 👔 Connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vitor-augusto-grein-60240a2b3/))
+- 📊 Apaixonado por transformar dados em insights acionáveis  
+- 🤖 Explorando redes neurais e técnicas avançadas de ML  
+- 📍 Baseado em Curitiba, Paraná  
+- 🌐 Sempre aprendendo e compartilhando — confira meus projetos e notebooks no [Kaggle](https://www.kaggle.com/vitorgrein0628)  
+- 👔 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-augusto-grein-60240a2b3/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
-- Python (Pandas, Scikit-learn, TensorFlow, Keras, XGB, LigthGBM)
+- Python (Pandas, Scikit-learn, TensorFlow, Keras, XGB, LightGBM)
 - SQL & Power BI
 - Plotly, Matplotlib, Seaborn
 - Git & GitHub
 
 ---
 
-### 📫 Get in Touch
+### 📫 Como Entrar em Contato
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vitor-augusto-grein-60240a2b3/) or check out my work on [Kaggle](https://www.kaggle.com/vitorgrein0628)
+Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/vitor-augusto-grein-60240a2b3/) ou confira meu trabalho no [Kaggle](https://www.kaggle.com/vitorgrein0628)

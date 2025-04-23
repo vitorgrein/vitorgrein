@@ -25,14 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorgrein&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
----
-
 ### 📫 Get in Touch
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vitor-augusto-grein-60240a2b3/) or check out my work on [Kaggle](https://www.kaggle.com/vitorgrein0628)
